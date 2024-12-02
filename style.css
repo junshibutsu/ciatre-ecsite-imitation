@@ -1,0 +1,193 @@
+
+.header-logo {
+    background-color: #161616;
+    height: 50px;
+    width: 50px;
+    border-radius: 4px;
+		position: fixed;
+    top: 20px;
+    left: 20px;
+    
+}
+
+.logo-glass {
+    padding: 12px;
+}
+
+.header-basket {
+    background-color: #161616;
+    height: 26px;
+    width: 26px;
+		position: fixed;
+		top: 20px;
+    right: 20px;
+		border-radius: 4px;
+		padding: 12px 12px 12px 12px;
+
+}
+.header-login {
+	background-color: #161616;
+	color: #fff;
+	position: fixed;
+	top: 20px;
+	right: 80px;
+	height: 50px;
+	width: 90px;
+	border-radius: 4px;
+	font-style: "Hiragino KaKu Gothic ProN";
+	font-size: 14px;
+	text-align: center;
+	line-height: 50px;
+}
+
+.logo-ciatre {
+	float: left;
+	height: 150px;
+	width: 150px;
+	margin-top: 105px;
+	margin-left: 72px;
+}
+
+.menu-bar{
+	
+	margin-right: 70px
+  
+}
+
+ .menu-bar li {
+	list-style: none;
+	float: right;
+	margin-top: 165px;
+	padding-left: 23px;
+	font-size: 15px;
+}
+
+.news-products {
+	/* width: 650px; */
+	/* float: right; */
+}
+
+.category-news {
+	font-size: 14px;
+	list-style: none;
+	padding-top: 220px;
+	/* margin-left: 140px; */
+}
+
+/* .category-news li {
+
+	
+} */
+
+.news-NEWS {
+	padding-bottom: 10px;
+
+}
+
+span {
+	padding-left: 10px;
+}
+
+.news-date2 {
+	padding-left: 222px;
+}
+
+.category-products {
+	width: 650px;
+	margin-top: 30px;
+	margin-right: 75px;
+	margin-left: 80px;
+  /* margin-left: auto; */
+
+}
+
+.category-products figure {
+	list-style: none;
+	float: right;
+  /* padding-right: 62px; */
+}
+
+.category-products img {
+	height: 111px;
+	width: 111px;
+	/* padding-top: 35px;
+	padding-right: 15px; */
+}
+
+figure {
+	display: table;
+	width: 111px; /* minimum width */
+    *width: auto; /* for IE7 and below */
+		/* margin-top: 40px; */
+		margin-left: 22px;
+		margin-right: 0px;
+}
+
+figcaption {
+	font-size: 12px;
+	margin-top: 10px;
+}
+
+.status-soldout {
+	background-color: #999999;
+	color: #fff;
+	border-radius: 4px;
+	font-size: 10px;
+	width: 70px;
+	text-align: center;
+}
+
+.items-list {
+	list-style: none;
+	position: relative;
+	bottom: 2065px;
+	right: 10px; 
+	/* clear: both; */
+}
+
+.items-list li {
+	font-size: 12px;
+	padding-top: 15px;
+	padding-left: 40px;
+}
+
+.table {
+	display: table;
+	border-collapse: collapse;
+	/* margin-top: 40px; */
+	margin-left: 250px;
+}
+
+.table > .cell {
+	display: table-cell;
+	border: #333333 1px solid;
+	padding: 10px;
+	width: 20px;
+	height: 15px;
+	text-align: center;
+}
+
+
+.footer-logo {
+	width: 38px;
+	height: 38px;
+	border-radius: 4px;
+	background-color: #161616;
+	float: left;
+	margin-bottom: 130px;
+	margin-left: 10px;
+}
+
+.footer-logo2 {
+  width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	background-color: #9ea5b2;
+	float: right;
+	margin-right: 20px;
+}
+
+
+/* .footer-logo img {
+	margin-left: 10px;
+} */
